@@ -1,6 +1,6 @@
  Human Health Monitoring and Emergency Alert System
 
-An IoT-based mini-project developed during my 6th semester to monitor vital health parameters such as **heart rate**, **body temperature**, and **SpO2** in real time. If abnormal values are detected, the system sends an **emergency alert** via a **GSM module** or triggers a buzzer alarm.
+An IoT-based mini-project developed during my 6th semester to monitor vital health parameters such as **heart rate**, **body temperature**, and **Oxygen level saturation** in real time. If abnormal values are detected, the system sends an **emergency alert** via a **GSM module** or triggers a buzzer alarm.
 
 ---
 
